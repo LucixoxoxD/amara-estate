@@ -1,0 +1,11 @@
+{
+  "name": "amara-estate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An elegant wedding venue demo for outreach.",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "check": "node --check dist/app.js && node --check server.cjs"
+  }
+}
